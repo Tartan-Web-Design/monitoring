@@ -1,25 +1,27 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: Tartan-Web-Design # Your GitHub username
+repo: monitoring # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Tartan Web Design
+    url: https://tartanwebdesign.net
+  - name: Edge Adventures
+    url: https://www.edgeadventures.uk
+  - name: Really Excellent
+    url: https://www.reallyexcellentinternships.com
+  - name: RecycleSV
+    url: https://www.recyclesv.com
+  - name: Primal Bushcraft
+    url: https://www.primalbushcraftsurvival.com
+  - name: Tutornet
+    url: https://www.tutornet.co.uk
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /Tartan-Web-Design/monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
