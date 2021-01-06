@@ -40,9 +40,9 @@
     "url": "https://www.reallyexcellentinternships.com",
     "icon": "https://favicons.githubusercontent.com/www.reallyexcellentinternships.com",
     "slug": "really-excellent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1019,
     "timeMonth": 1236,
     "timeYear": 1236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-06": 0
+    }
   },
   {
     "name": "RecycleSV",
