@@ -13,7 +13,7 @@
     "time": 1167,
     "timeDay": 1261,
     "timeWeek": 1014,
-    "timeMonth": 1167,
+    "timeMonth": 1148,
     "timeYear": 1167,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 3000,
     "timeDay": 390,
     "timeWeek": 6530,
-    "timeMonth": 3000,
+    "timeMonth": 3099,
     "timeYear": 3000,
     "dailyMinutesDown": {}
   },
@@ -41,15 +41,15 @@
     "icon": "https://favicons.githubusercontent.com/www.reallyexcellentinternships.com",
     "slug": "really-excellent",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.77%",
     "time": 2411,
     "timeDay": 472,
     "timeWeek": 3343,
-    "timeMonth": 2411,
+    "timeMonth": 2399,
     "timeYear": 2411,
     "dailyMinutesDown": {
       "2021-01-08": 39,
@@ -61,18 +61,20 @@
     "url": "https://www.recyclesv.com",
     "icon": "https://favicons.githubusercontent.com/www.recyclesv.com",
     "slug": "recycle-sv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 972,
-    "timeDay": 613,
-    "timeWeek": 1099,
-    "timeMonth": 972,
-    "timeYear": 972,
-    "dailyMinutesDown": {}
+    "time": 965,
+    "timeDay": 676,
+    "timeWeek": 1054,
+    "timeMonth": 942,
+    "timeYear": 965,
+    "dailyMinutesDown": {
+      "2021-01-28": 0
+    }
   },
   {
     "name": "Primal Bushcraft",
@@ -88,7 +90,7 @@
     "time": 1690,
     "timeDay": 668,
     "timeWeek": 2693,
-    "timeMonth": 1690,
+    "timeMonth": 1673,
     "timeYear": 1690,
     "dailyMinutesDown": {}
   },
@@ -106,7 +108,7 @@
     "time": 1537,
     "timeDay": 1192,
     "timeWeek": 2695,
-    "timeMonth": 1537,
+    "timeMonth": 1517,
     "timeYear": 1537,
     "dailyMinutesDown": {
       "2021-01-27": 30
