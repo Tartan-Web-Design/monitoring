@@ -22,19 +22,19 @@
     "url": "https://www.edgeadventures.uk",
     "icon": "https://favicons.githubusercontent.com/www.edgeadventures.uk",
     "slug": "edge-adventures",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2603,
-    "timeDay": 757,
-    "timeWeek": 690,
-    "timeMonth": 3029,
-    "timeYear": 2603,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 2610,
+    "timeDay": 1462,
+    "timeWeek": 932,
+    "timeMonth": 3024,
+    "timeYear": 2610,
     "dailyMinutesDown": {
-      "2021-02-03": 0
+      "2021-02-03": 19
     }
   },
   {
