@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/tartanwebdesign.net",
     "slug": "tartan-web-design",
     "status": "up",
-    "uptime": "89.81%",
+    "uptime": "89.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -141,9 +141,9 @@
     "url": "https://www.primalbushcraftsurvival.com",
     "icon": "https://favicons.githubusercontent.com/www.primalbushcraftsurvival.com",
     "slug": "primal-bushcraft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -153,6 +153,7 @@
     "timeMonth": 2236,
     "timeYear": 1515,
     "dailyMinutesDown": {
+      "2022-03-14": 0,
       "2021-07-20": 14,
       "2021-06-11": 20,
       "2021-06-08": 57
