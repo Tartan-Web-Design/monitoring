@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/tartanwebdesign.net",
     "slug": "tartan-web-design",
     "status": "up",
-    "uptime": "84.23%",
+    "uptime": "84.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.62%",
-    "uptimeYear": "78.20%",
+    "uptimeMonth": "65.91%",
+    "uptimeYear": "78.33%",
     "time": 1061,
-    "timeDay": 548,
-    "timeWeek": 675,
-    "timeMonth": 636,
-    "timeYear": 1086,
+    "timeDay": 499,
+    "timeWeek": 671,
+    "timeMonth": 629,
+    "timeYear": 1084,
     "dailyMinutesDown": {
       "2022-05-18": 652,
       "2022-05-17": 1440,
@@ -103,8 +103,7 @@
       "2021-06-30": 17,
       "2021-06-22": 67,
       "2021-06-10": 78,
-      "2021-06-09": 712,
-      "2021-06-08": 571
+      "2021-06-09": 712
     }
   },
   {
@@ -118,15 +117,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1998,
-    "timeDay": 253,
-    "timeWeek": 2854,
-    "timeMonth": 3374,
-    "timeYear": 2265,
+    "time": 2009,
+    "timeDay": 6771,
+    "timeWeek": 3528,
+    "timeMonth": 3275,
+    "timeYear": 2277,
     "dailyMinutesDown": {
       "2021-10-27": 23,
-      "2021-09-03": 24,
-      "2021-06-08": 57
+      "2021-09-03": 24
     }
   },
   {
@@ -141,14 +139,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 953,
-    "timeDay": 163,
-    "timeWeek": 1186,
-    "timeMonth": 961,
-    "timeYear": 1017,
+    "timeDay": 441,
+    "timeWeek": 869,
+    "timeMonth": 881,
+    "timeYear": 1015,
     "dailyMinutesDown": {
       "2021-08-11": 17,
-      "2021-07-21": 19,
-      "2021-06-08": 57
+      "2021-07-21": 19
     }
   },
   {
@@ -162,15 +159,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1316,
-    "timeDay": 314,
-    "timeWeek": 2391,
-    "timeMonth": 1733,
-    "timeYear": 1483,
+    "time": 1321,
+    "timeDay": 3149,
+    "timeWeek": 2422,
+    "timeMonth": 1709,
+    "timeYear": 1487,
     "dailyMinutesDown": {
       "2022-03-16": 22,
-      "2021-09-03": 24,
-      "2021-06-08": 27
+      "2021-09-03": 24
     }
   },
   {
@@ -179,18 +175,19 @@
     "icon": "https://favicons.githubusercontent.com/www.primalbushcraftsurvival.com",
     "slug": "primal-bushcraft",
     "status": "down",
-    "uptime": "84.27%",
+    "uptime": "84.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.36%",
-    "time": 1505,
+    "uptimeYear": "77.09%",
+    "time": 1507,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1617,
     "dailyMinutesDown": {
-      "2022-06-07": 119,
+      "2022-06-08": 120,
+      "2022-06-07": 1440,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
@@ -276,8 +273,7 @@
       "2022-03-16": 656,
       "2022-03-14": 31,
       "2021-07-20": 14,
-      "2021-06-11": 20,
-      "2021-06-08": 57
+      "2021-06-11": 20
     }
   },
   {
@@ -291,14 +287,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1040,
-    "timeDay": 227,
-    "timeWeek": 2081,
-    "timeMonth": 1554,
-    "timeYear": 1146,
+    "time": 1044,
+    "timeDay": 2803,
+    "timeWeek": 2062,
+    "timeMonth": 1608,
+    "timeYear": 1151,
     "dailyMinutesDown": {
-      "2021-06-11": 16,
-      "2021-06-08": 57
+      "2021-06-11": 16
     }
   }
 ]
