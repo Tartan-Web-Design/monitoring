@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/tartanwebdesign.net",
     "slug": "tartan-web-design",
     "status": "up",
-    "uptime": "84.32%",
+    "uptime": "84.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "72.50%",
+    "uptimeMonth": "75.78%",
     "uptimeYear": "78.57%",
-    "time": 1060,
-    "timeDay": 859,
+    "time": 1059,
+    "timeDay": 529,
     "timeWeek": 658,
-    "timeMonth": 642,
-    "timeYear": 1080,
+    "timeMonth": 638,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2022-05-18": 652,
       "2022-05-17": 1440,
@@ -116,10 +116,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2032,
-    "timeDay": 6943,
-    "timeWeek": 5102,
-    "timeMonth": 3448,
-    "timeYear": 2315,
+    "timeDay": 6145,
+    "timeWeek": 5097,
+    "timeMonth": 3639,
+    "timeYear": 2326,
     "dailyMinutesDown": {
       "2021-10-27": 23,
       "2021-09-03": 24
@@ -136,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 959,
-    "timeDay": 2417,
-    "timeWeek": 761,
-    "timeMonth": 995,
-    "timeYear": 1025,
+    "time": 952,
+    "timeDay": 75,
+    "timeWeek": 756,
+    "timeMonth": 993,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2021-08-11": 17,
       "2021-07-21": 19
@@ -157,11 +157,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1332,
-    "timeDay": 3813,
-    "timeWeek": 2365,
-    "timeMonth": 1786,
-    "timeYear": 1506,
+    "time": 1335,
+    "timeDay": 2847,
+    "timeWeek": 2331,
+    "timeMonth": 1865,
+    "timeYear": 1510,
     "dailyMinutesDown": {
       "2022-03-16": 22,
       "2021-09-03": 24
@@ -173,18 +173,19 @@
     "icon": "https://favicons.githubusercontent.com/www.primalbushcraftsurvival.com",
     "slug": "primal-bushcraft",
     "status": "down",
-    "uptime": "83.79%",
+    "uptime": "83.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.55%",
-    "time": 1511,
+    "uptimeYear": "76.28%",
+    "time": 1509,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1627,
     "dailyMinutesDown": {
-      "2022-06-10": 126,
+      "2022-06-11": 121,
+      "2022-06-10": 1440,
       "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
@@ -272,8 +273,7 @@
       "2022-03-17": 1440,
       "2022-03-16": 656,
       "2022-03-14": 31,
-      "2021-07-20": 14,
-      "2021-06-11": 20
+      "2021-07-20": 14
     }
   },
   {
@@ -287,13 +287,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1053,
-    "timeDay": 3969,
-    "timeWeek": 2002,
-    "timeMonth": 1649,
-    "timeYear": 1137,
-    "dailyMinutesDown": {
-      "2021-06-11": 16
-    }
+    "time": 1058,
+    "timeDay": 3071,
+    "timeWeek": 2011,
+    "timeMonth": 1742,
+    "timeYear": 1143,
+    "dailyMinutesDown": {}
   }
 ]
