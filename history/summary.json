@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.22%",
+    "uptimeYear": "21.21%",
     "time": 1130,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1152,
     "dailyMinutesDown": {
-      "2025-12-13": 691,
+      "2025-12-13": 752,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -356,7 +356,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-13": 691,
+      "2025-12-13": 752,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -740,7 +740,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-13": 691,
+      "2025-12-13": 752,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -1112,15 +1112,15 @@
     "url": "https://www.primalbushcraftsurvival.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.primalbushcraftsurvival.com.ico",
     "slug": "primal-bushcraft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "75.39%",
-    "uptimeWeek": "70.38%",
+    "uptimeDay": "77.92%",
+    "uptimeWeek": "70.69%",
     "uptimeMonth": "90.67%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.22%",
     "time": 970,
     "timeDay": 655,
-    "timeWeek": 1111,
+    "timeWeek": 1113,
     "timeMonth": 1067,
     "timeYear": 881,
     "dailyMinutesDown": {
@@ -1137,8 +1137,7 @@
       "2025-12-03": 148,
       "2025-11-21": 33,
       "2025-11-16": 26,
-      "2025-11-07": 33,
-      "2025-10-26": 28
+      "2025-11-07": 33
     }
   },
   {
@@ -1158,7 +1157,7 @@
     "timeMonth": 0,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-12-13": 691,
+      "2025-12-13": 752,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
