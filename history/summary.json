@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tartanwebdesign.net.ico",
     "slug": "tartan-web-design",
     "status": "down",
-    "uptime": "77.83%",
+    "uptime": "77.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.37%",
-    "time": 1179,
+    "uptimeYear": "10.10%",
+    "time": 1185,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1220,
+    "timeYear": 1252,
     "dailyMinutesDown": {
-      "2026-01-22": 145,
+      "2026-01-23": 141,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -359,9 +360,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 560,
-    "timeDay": 995,
-    "timeWeek": 681,
-    "timeMonth": 558,
+    "timeDay": 597,
+    "timeWeek": 677,
+    "timeMonth": 566,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2025-07-31": 79,
@@ -385,7 +386,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reallyexcellentinternships.com.ico",
     "slug": "really-excellent",
     "status": "down",
-    "uptime": "63.18%",
+    "uptime": "63.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -396,7 +397,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-22": 145,
+      "2026-01-23": 141,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -759,8 +761,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   },
   {
@@ -769,7 +770,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.recyclesv.com.ico",
     "slug": "recycle-sv",
     "status": "down",
-    "uptime": "44.65%",
+    "uptime": "44.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -780,7 +781,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-22": 145,
+      "2026-01-23": 141,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -1143,8 +1145,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   },
   {
@@ -1159,9 +1160,9 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.22%",
     "time": 885,
-    "timeDay": 368,
+    "timeDay": 490,
     "timeWeek": 526,
-    "timeMonth": 632,
+    "timeMonth": 622,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2026-01-20": 30,
@@ -1187,7 +1188,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tutornet.co.uk.ico",
     "slug": "tutornet",
     "status": "down",
-    "uptime": "61.22%",
+    "uptime": "61.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1196,9 +1197,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 207,
+    "timeYear": 209,
     "dailyMinutesDown": {
-      "2026-01-22": 145,
+      "2026-01-23": 141,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -1561,8 +1563,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   }
 ]
