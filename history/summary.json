@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tartanwebdesign.net.ico",
     "slug": "tartan-web-design",
     "status": "down",
-    "uptime": "75.14%",
+    "uptime": "75.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1127,
+    "time": 1137,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-29": 203,
+      "2026-03-30": 206,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -379,8 +380,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.86%",
-    "time": 560,
-    "timeDay": 680,
-    "timeWeek": 647,
-    "timeMonth": 620,
-    "timeYear": 562,
+    "time": 561,
+    "timeDay": 863,
+    "timeWeek": 692,
+    "timeMonth": 627,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2026-03-01": 82,
       "2026-02-18": 50,
@@ -422,10 +422,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reallyexcellentinternships.com.ico",
     "slug": "really-excellent",
     "status": "down",
-    "uptime": "61.00%",
+    "uptime": "60.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -433,7 +433,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-29": 203,
+      "2026-03-30": 206,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -796,8 +797,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   },
   {
@@ -806,10 +806,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.recyclesv.com.ico",
     "slug": "recycle-sv",
     "status": "down",
-    "uptime": "43.11%",
+    "uptime": "43.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -817,7 +817,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-29": 203,
+      "2026-03-30": 206,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -1180,8 +1181,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   },
   {
@@ -1195,11 +1195,11 @@
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.20%",
-    "time": 866,
-    "timeDay": 174,
-    "timeWeek": 841,
-    "timeMonth": 602,
-    "timeYear": 914,
+    "time": 865,
+    "timeDay": 125,
+    "timeWeek": 807,
+    "timeMonth": 587,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2026-03-25": 55,
       "2026-03-18": 49,
@@ -1230,18 +1230,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tutornet.co.uk.ico",
     "slug": "tutornet",
     "status": "down",
-    "uptime": "59.11%",
+    "uptime": "59.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 197,
+    "time": 198,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-29": 203,
+      "2026-03-30": 207,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -1604,8 +1605,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   }
 ]
