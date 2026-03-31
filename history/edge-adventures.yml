@@ -1,7 +1,7 @@
 url: https://www.edgeadventures.uk
-status: up
-code: 200
-responseTime: 866
-lastUpdated: 2026-03-30T23:25:40.742Z
+status: down
+code: 503
+responseTime: 3914
+lastUpdated: 2026-03-31T21:04:10.021Z
 startTime: 2020-12-28T11:35:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
