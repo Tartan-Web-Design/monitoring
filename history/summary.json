@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tartanwebdesign.net.ico",
     "slug": "tartan-web-design",
     "status": "down",
-    "uptime": "71.81%",
+    "uptime": "71.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1575,
+    "time": 1675,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 259,
+      "2026-06-27": 246,
+      "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -379,8 +380,7 @@
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
-      "2025-06-28": 1440,
-      "2025-06-27": 1440
+      "2025-06-28": 1440
     }
   },
   {
@@ -395,12 +395,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 581,
-    "timeDay": 580,
-    "timeWeek": 507,
-    "timeMonth": 598,
-    "timeYear": 600,
+    "timeDay": 249,
+    "timeWeek": 502,
+    "timeMonth": 590,
+    "timeYear": 599,
     "dailyMinutesDown": {
-      "2025-06-27": 29,
       "2025-07-18": 22,
       "2025-07-19": 25,
       "2025-07-21": 20,
@@ -423,7 +422,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reallyexcellentinternships.com.ico",
     "slug": "really-excellent",
     "status": "down",
-    "uptime": "58.30%",
+    "uptime": "58.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -434,7 +433,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 259,
+      "2026-06-27": 246,
+      "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -797,8 +797,7 @@
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
-      "2025-06-28": 1440,
-      "2025-06-27": 1440
+      "2025-06-28": 1440
     }
   },
   {
@@ -807,7 +806,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.recyclesv.com.ico",
     "slug": "recycle-sv",
     "status": "down",
-    "uptime": "41.20%",
+    "uptime": "41.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -818,7 +817,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 259,
+      "2026-06-27": 246,
+      "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -1181,8 +1181,7 @@
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
-      "2025-06-28": 1440,
-      "2025-06-27": 1440
+      "2025-06-28": 1440
     }
   },
   {
@@ -1191,15 +1190,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.primalbushcraftsurvival.com.ico",
     "slug": "primal-bushcraft",
     "status": "down",
-    "uptime": "98.39%",
+    "uptime": "98.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.09%",
-    "uptimeYear": "91.15%",
+    "uptimeMonth": "0.83%",
+    "uptimeYear": "90.88%",
     "time": 851,
-    "timeDay": 282,
-    "timeWeek": 255,
-    "timeMonth": 349,
+    "timeDay": 348,
+    "timeWeek": 254,
+    "timeMonth": 339,
     "timeYear": 845,
     "dailyMinutesDown": {
       "2025-12-05": 168,
@@ -1228,7 +1227,8 @@
       "2026-04-24": 117,
       "2026-05-05": 222,
       "2026-05-08": 85,
-      "2026-06-26": 259,
+      "2026-06-27": 246,
+      "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -1266,18 +1266,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tutornet.co.uk.ico",
     "slug": "tutornet",
     "status": "down",
-    "uptime": "56.49%",
+    "uptime": "56.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 221,
+    "time": 228,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 259,
+      "2026-06-27": 246,
+      "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -1640,8 +1641,7 @@
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
-      "2025-06-28": 1440,
-      "2025-06-27": 1440
+      "2025-06-28": 1440
     }
   }
 ]
