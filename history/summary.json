@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tartanwebdesign.net.ico",
     "slug": "tartan-web-design",
     "status": "down",
-    "uptime": "70.63%",
+    "uptime": "70.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 876,
+      "2026-07-30": 174,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -379,8 +380,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
@@ -389,23 +389,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.edgeadventures.uk.ico",
     "slug": "edge-adventures",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 590,
-    "timeDay": 550,
+    "uptime": "99.73%",
+    "uptimeDay": "48.65%",
+    "uptimeWeek": "92.66%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "99.81%",
+    "time": 591,
+    "timeDay": 0,
     "timeWeek": 536,
-    "timeMonth": 572,
-    "timeYear": 594,
+    "timeMonth": 575,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2025-07-30": 25,
       "2025-07-31": 79,
       "2026-02-18": 50,
       "2026-03-01": 82,
       "2026-03-31": 48,
-      "2026-07-29": 1
+      "2026-07-30": 174,
+      "2026-07-29": 565
     }
   },
   {
@@ -414,7 +414,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reallyexcellentinternships.com.ico",
     "slug": "really-excellent",
     "status": "down",
-    "uptime": "57.34%",
+    "uptime": "57.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -425,7 +425,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 876,
+      "2026-07-30": 174,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -788,8 +789,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
@@ -798,7 +798,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.recyclesv.com.ico",
     "slug": "recycle-sv",
     "status": "down",
-    "uptime": "40.52%",
+    "uptime": "40.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -809,7 +809,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 876,
+      "2026-07-30": 174,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -1172,8 +1173,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
@@ -1185,13 +1185,13 @@
     "uptime": "98.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
-    "uptimeMonth": "94.39%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "89.76%",
     "time": 830,
-    "timeDay": 418,
-    "timeWeek": 492,
-    "timeMonth": 342,
-    "timeYear": 829,
+    "timeDay": 312,
+    "timeWeek": 330,
+    "timeMonth": 343,
+    "timeYear": 808,
     "dailyMinutesDown": {
       "2025-12-05": 131,
       "2025-12-06": 314,
@@ -1263,7 +1263,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tutornet.co.uk.ico",
     "slug": "tutornet",
     "status": "down",
-    "uptime": "55.56%",
+    "uptime": "55.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1274,7 +1274,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 876,
+      "2026-07-30": 174,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -1637,8 +1638,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   }
 ]
