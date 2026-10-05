@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tartanwebdesign.net.ico",
     "slug": "tartan-web-design",
     "status": "down",
-    "uptime": "68.40%",
+    "uptime": "68.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 332,
+      "2026-10-05": 315,
+      "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -379,8 +380,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
-      "2025-10-06": 1440,
-      "2025-10-05": 1440
+      "2025-10-06": 1440
     }
   },
   {
@@ -389,21 +389,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.edgeadventures.uk.ico",
     "slug": "edge-adventures",
     "status": "down",
-    "uptime": "96.60%",
+    "uptime": "96.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.71%",
+    "uptimeYear": "81.44%",
     "time": 599,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 609,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2026-02-18": 50,
       "2026-03-01": 82,
       "2026-03-31": 48,
-      "2026-10-04": 332,
+      "2026-10-05": 315,
+      "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -479,7 +480,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reallyexcellentinternships.com.ico",
     "slug": "really-excellent",
     "status": "down",
-    "uptime": "55.53%",
+    "uptime": "55.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -490,7 +491,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 332,
+      "2026-10-05": 315,
+      "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -853,8 +855,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
-      "2025-10-06": 1440,
-      "2025-10-05": 1440
+      "2025-10-06": 1440
     }
   },
   {
@@ -863,7 +864,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.recyclesv.com.ico",
     "slug": "recycle-sv",
     "status": "down",
-    "uptime": "39.24%",
+    "uptime": "39.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -874,7 +875,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 332,
+      "2026-10-05": 315,
+      "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -1237,8 +1239,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
-      "2025-10-06": 1440,
-      "2025-10-05": 1440
+      "2025-10-06": 1440
     }
   },
   {
@@ -1247,16 +1248,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.primalbushcraftsurvival.com.ico",
     "slug": "primal-bushcraft",
     "status": "up",
-    "uptime": "98.22%",
+    "uptime": "98.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.76%",
-    "time": 760,
-    "timeDay": 337,
-    "timeWeek": 266,
-    "timeMonth": 252,
-    "timeYear": 742,
+    "time": 759,
+    "timeDay": 72,
+    "timeWeek": 261,
+    "timeMonth": 250,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2025-12-05": 97,
       "2025-12-06": 314,
@@ -1329,7 +1330,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tutornet.co.uk.ico",
     "slug": "tutornet",
     "status": "down",
-    "uptime": "53.80%",
+    "uptime": "53.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1340,7 +1341,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 332,
+      "2026-10-05": 315,
+      "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -1703,8 +1705,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
-      "2025-10-06": 1440,
-      "2025-10-05": 1440
+      "2025-10-06": 1440
     }
   }
 ]
