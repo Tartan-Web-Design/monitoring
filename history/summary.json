@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tartanwebdesign.net.ico",
     "slug": "tartan-web-design",
     "status": "down",
-    "uptime": "66.89%",
+    "uptime": "66.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-20": 1036,
+      "2026-11-20": 1390,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
@@ -388,17 +388,17 @@
     "url": "https://www.edgeadventures.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.edgeadventures.uk.ico",
     "slug": "edge-adventures",
-    "status": "down",
-    "uptime": "96.60%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "81.28%",
+    "status": "up",
+    "uptime": "96.59%",
+    "uptimeDay": "75.39%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "81.21%",
     "time": 572,
-    "timeDay": 424,
-    "timeWeek": 338,
-    "timeMonth": 381,
-    "timeYear": 588,
+    "timeDay": 369,
+    "timeWeek": 329,
+    "timeMonth": 378,
+    "timeYear": 587,
     "dailyMinutesDown": {
       "2026-02-18": 50,
       "2026-03-01": 82,
@@ -473,7 +473,7 @@
       "2026-07-30": 1440,
       "2026-07-29": 565,
       "2026-11-06": 99,
-      "2026-11-20": 1
+      "2026-11-20": 354
     }
   },
   {
@@ -493,7 +493,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-20": 1036,
+      "2026-11-20": 1390,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
@@ -877,7 +877,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-20": 1036,
+      "2026-11-20": 1390,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
@@ -1345,7 +1345,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-20": 1036,
+      "2026-11-20": 1390,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
